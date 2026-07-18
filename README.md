@@ -27,22 +27,6 @@ Numerical study of the Vasicek short-rate model, with a focus on the PDE pricing
 - explicit Euler is useful mainly as a stability benchmark
 - Vasicek is pedagogical and tractable, but limited for exact curve fitting
 
-## Tech stack
-
-- Python
-- NumPy
-- SciPy
-- Pandas
-- Matplotlib
-- Jupyter
-
-## Repository structure
-
-- `notebook/` — main notebook
-- `figures/` — generated plots
-- `data/` — market data snapshots
-- `README.md` — project overview
-
 ## References
 
 - O. Vasicek, *An equilibrium characterization of the term structure* (1977)
